@@ -26,6 +26,18 @@
     "general__filter": "Filter",
     "general__read_more": "Read More",
     "general__click_here": "Click Here",
+    "general__save": "Save",
+    "general__cancel": "Cancel",
+    "general__edit": "Edit",
+    "general__delete": "Delete",
+    "general__add": "Add",
+    "general__update": "Update",
+    "general__close": "Close",
+    "general__back": "Back",
+    "general__next": "Next",
+    "general__previous": "Previous",
+    "general__search": "Search",
+    "general__select": "Select",
     "field__acount_number": "Account Number",
     "field__gender": "Gender",
     "field__sap_cust_id": "SAP Cust ID",
@@ -65,7 +77,9 @@
     "page__login__dont_have_account": "Don't have an account?",
     "page__login__sign_with": "Email / Username / Phone",
     "page__login__for_doctor_office": "For Doctor and Company Registration",
-    "page__login__password": "Password"
+    "page__login__password": "Password",
+    "page__login__username": "Username",
+    "page__login__enter_password": "Enter password"
   },
   "id": {
     "menu__home": "Home",
@@ -94,6 +108,18 @@
     "general__filter": "Filter",
     "general__read_more": "Read More",
     "general__click_here": "Click Here",
+    "general__save": "Save",
+    "general__cancel": "Cancel",
+    "general__edit": "Edit",
+    "general__delete": "Delete",
+    "general__add": "Add",
+    "general__update": "Update",
+    "general__close": "Close",
+    "general__back": "Back",
+    "general__next": "Next",
+    "general__previous": "Previous",
+    "general__search": "Search",
+    "general__select": "Select",
     "field__acount_number": "Account Number",
     "field__gender": "Gender",
     "field__sap_cust_id": "SAP Cust ID",
@@ -133,6 +159,8 @@
     "page__login__dont_have_account": "Don't have an account?",
     "page__login__sign_with": "Email / Username / Phone",
     "page__login__for_doctor_office": "For Doctor and Company Registration",
-    "page__login__password": "Password"
+    "page__login__password": "Password",
+    "page__login__username": "Username",
+    "page__login__enter_password": "Enter password"
   }
 }
