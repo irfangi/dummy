@@ -64,7 +64,8 @@
     "page__login__sign_up_now": "Sign up now",
     "page__login__dont_have_account": "Don't have an account?",
     "page__login__sign_with": "Email / Username / Phone",
-    "page__login__for_doctor_office": "For Doctor and Company Registration"
+    "page__login__for_doctor_office": "For Doctor and Company Registration",
+    "page__login__password": "Password"
   },
   "id": {
     "menu__home": "Home",
@@ -131,6 +132,7 @@
     "page__login__sign_up_now": "Sign up now",
     "page__login__dont_have_account": "Don't have an account?",
     "page__login__sign_with": "Email / Username / Phone",
-    "page__login__for_doctor_office": "For Doctor and Company Registration"
+    "page__login__for_doctor_office": "For Doctor and Company Registration",
+    "page__login__password": "Password"
   }
 }
