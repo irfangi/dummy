@@ -82,7 +82,7 @@
     "page__login__enter_password": "Enter password"
   },
   "id": {
-    "menu__home": "Home",
+    "menu__home": "Beranda",
     "menu__book_lab_test": "Book Lab Test",
     "menu__buy_package": "Buy Package",
     "menu__virtulab_nearme": "Virtual Lab Near Me",
@@ -153,7 +153,7 @@
     "page__login__list_5": "Easy digital payment",
     "page__login__welcone": "Welcome",
     "page__login__remember_me": "Remember me",
-    "page__login__sign_in": "Sign in",
+    "page__login__sign_in": "Masuk",
     "page__login__forgot_password": "Forgot password",
     "page__login__sign_up_now": "Sign up now",
     "page__login__dont_have_account": "Don't have an account?",
